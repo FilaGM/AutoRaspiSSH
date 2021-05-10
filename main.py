@@ -1,5 +1,12 @@
-import threading,os,paramiko,time,json,sys
+import os
 
+try:
+    import threading,paramiko,time,json,sys
+except:
+    print("Installing requirments ...")
+    os.system("py -m pip install -r requirments.txt")
+    import threading,paramiko,time,json,sys
+    
 config = json.loads(open("config.json","r").read())
 out = []
 found = False
