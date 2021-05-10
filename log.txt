@@ -1,0 +1,16 @@
+Successfuly connected to: 192.168.1.15
+Error at host: 192.168.1.46 => Authentication failed.
+Error at host: 192.168.1.1 => Authentication failed.
+Error at host: 192.168.1.254 => Authentication failed.
+Error at host: 192.168.1.100 => [Errno None] Unable to connect to port 22 on 192.168.1.100
+Error at host: 192.168.1.85 => [Errno None] Unable to connect to port 22 on 192.168.1.85
+Error at host: 192.168.1.174 => [Errno None] Unable to connect to port 22 on 192.168.1.174
+Error at host: 192.168.1.198 => [Errno None] Unable to connect to port 22 on 192.168.1.198
+Error at host: 192.168.1.197 => [Errno None] Unable to connect to port 22 on 192.168.1.197
+Error at host: 192.168.1.200 => [Errno None] Unable to connect to port 22 on 192.168.1.200
+Error at host: 192.168.1.199 => [Errno None] Unable to connect to port 22 on 192.168.1.199
+Error at host: 192.168.1.251 => [Errno None] Unable to connect to port 22 on 192.168.1.251
+Error at host: 192.168.1.51 => [Errno None] Unable to connect to port 22 on 192.168.1.51
+Error at host: 192.168.1.57 => [Errno None] Unable to connect to port 22 on 192.168.1.57
+Error at host: 192.168.1.233 => [Errno None] Unable to connect to port 22 on 192.168.1.233
+Error at host: 192.168.1.55 => [WinError 10060] Pokus o pøipojení selhal, protože pøipojená strana v èasovém intervalu øádnì neodpovìdìla, nebo vytvoøené pøipojení selhalo, protože neodpovìdìl pøipojený hostitel

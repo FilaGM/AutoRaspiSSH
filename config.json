@@ -1,0 +1,8 @@
+{	
+	"autoSSH":false,
+	"ssh":{
+		"username":"pi",
+		"password":"raspberry"
+	},
+	"log_file_name":"log.txt"
+}
